@@ -1,4 +1,4 @@
-# Library Management System
+# library-management-system
 
 he DVLD Management System is a Windows Forms-based desktop application designed to manage driving license operations, including applications, renewals, and verifications. Built using a clean 3-tier architecture (Presentation Layer, Business Logic Layer, and Data Access Layer), this system ensures a modular, maintainable, and scalable codebase.
 
@@ -11,13 +11,13 @@ The application follows a Three-Tier Architecture, comprising:
 3. Data Access Layer – Manages database interactions
 
 ## Project Structure
-LibraryManagementSystem/
+DVLD1/
 │
-├── LIbraryManagmentSystem/                     ← Presentation Layer (UI)
+├── DVLD1/                     ← Presentation Layer (UI)
 │
-├── LIbraryManagmentSystem_Business/            ← Business Logic Layer
+├── DVLD1_Business/            ← Business Logic Layer
 │
-├── LIbraryManagmentSystem_DataAccess/          ← Data Access Layer
+├── DVLD1_DataAccess/          ← Data Access Layer
 │
 ├── Database/                                   ← Database Scripts & Schema
 │   ├── schema.sql                       ← SQL script to create all object in the database
@@ -47,7 +47,7 @@ LibraryManagementSystem/
 ### Installation
 
 1. Clone the repository  
-   git clone 
+   git clone https://github.com/muzamilalfatih/-driving-license-management-system.git
 
 2. Steps to Set Up the Database
 
@@ -64,9 +64,9 @@ LibraryManagementSystem/
 
 ## Features
 
-- Book management: add, update, delete, and search books  
+- Licence management: add, update, renew,and search licence 
 - User management: register and manage users  
-- Transactions: issue and return books  
+- Transactions: issue ,detain,relase detained licence,  
 - Reporting: view and generate activity reports
 
 ## Contributing
