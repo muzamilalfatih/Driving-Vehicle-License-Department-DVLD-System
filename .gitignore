@@ -1,0 +1,67 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.app
+*.cache
+*.pdb
+*.mdb
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# MonoDevelop
+*.pidb
+*.userprefs
+
+# Visual Studio
+.vs/
+*.sln.ide
+*.sdf
+*.dbmdl
+*.VC.db
+
+# Rider IDE
+.idea/
+
+# Windows Forms designer files
+
+
+# NuGet
+*.nupkg
+packages/
+*.snupkg
+project.lock.json
+project.assets.json
+*.nuget.props
+*.nuget.targets
+
+# DotNet Core (optional if using)
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Logs and diagnostics
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+
+# Other
+_ReSharper*/
+*.DotSettings.user
