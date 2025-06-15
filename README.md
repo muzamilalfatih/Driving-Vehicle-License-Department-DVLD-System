@@ -1,6 +1,6 @@
-# library-management-system
+# Driving & Vehicle License Department (DVLD) System
 
-he DVLD Management System is a Windows Forms-based desktop application designed to manage driving license operations, including applications, renewals, and verifications. Built using a clean 3-tier architecture (Presentation Layer, Business Logic Layer, and Data Access Layer), this system ensures a modular, maintainable, and scalable codebase.
+The DVLD Management System is a Windows Forms-based desktop application designed to manage driving license operations, including applications, renewals, and verifications. Built using a clean 3-tier architecture (Presentation Layer, Business Logic Layer, and Data Access Layer), this system ensures a modular, maintainable, and scalable codebase.
 
 ## Architecture Overview
 
