@@ -8,25 +8,7 @@ The application follows a Three-Tier Architecture, comprising:
 
 1. Presentation Layer – User Interface for interaction  
 2. Business Logic Layer – Handles the core functionality and rules  
-3. Data Access Layer – Manages database interactions
-
-## Project Structure
-DVLD1/
-│
-├── DVLD1/                     ← Presentation Layer (UI)
-│
-├── DVLD1_Business/            ← Business Logic Layer
-│
-├── DVLD1_DataAccess/          ← Data Access Layer
-│
-├── Database/                                   ← Database Scripts & Schema
-│   ├── schema.sql                       ← SQL script to create all object in the database
-│   ├── seed.sql                  ← SQL script to insert initial sample data
-│
-├── .gitignore
-├── README.md
-
-                                
+3. Data Access Layer – Manages database interactions                                
 
 ## Technologies Used
 
